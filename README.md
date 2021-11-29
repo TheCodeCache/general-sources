@@ -8,6 +8,8 @@ Stuff I want to read
 
 - **SPARK**:  
   - https://spark.apache.org/docs/latest/hardware-provisioning.html
+  - [Apache Spark - Deep Dive into Storage Format’s _ spark-notes.pdf](https://github.com/TheCodeCache/general-sources/files/7616451/Apache.Spark.-.Deep.Dive.into.Storage.Format.s._.spark-notes.pdf)
+
 
 - **Linux**:  
   - https://medium.com/marionete/linux-disk-cache-was-always-there-741bef097e7f
