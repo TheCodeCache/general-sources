@@ -4,7 +4,9 @@ Stuff I want to read
 # Sources
 
 - **System Design**:  
-  - https://www.lewis-lin.com/newsletter-archive/announcing-the-system-design-interview-book-lewis-lin-shivam-patel (**PEDALS** method)
+  - https://www.lewis-lin.com/newsletter-archive/announcing-the-system-design-interview-book-lewis-lin-shivam-patel 
+    
+    (**PEDALS** method)
 
 - **SPARK**:  
   - https://spark.apache.org/docs/latest/hardware-provisioning.html
@@ -15,10 +17,18 @@ Stuff I want to read
   - [spark_joins.pdf](https://github.com/TheCodeCache/general-sources/files/7616522/spark_joins.pdf)
   - [LearningSpark2.0.pdf](https://github.com/TheCodeCache/general-sources/files/7616536/LearningSpark2.0.pdf)
   - [Catalyst and Tungsten_ Apache Spark's Speeding Engine _ LinkedIn.pdf](https://github.com/TheCodeCache/general-sources/files/7616669/Catalyst.and.Tungsten_.Apache.Spark.s.Speeding.Engine._.LinkedIn.pdf)
+  - [High Performance Spark.pdf](https://github.com/TheCodeCache/general-sources/files/7617347/High.Performance.Spark.pdf)
+  - [Improving Spark Memory Resource with Off-Heap In-Memory Storage _ Alluxio.pdf](https://github.com/TheCodeCache/general-sources/files/7617299/Improving.Spark.Memory.Resource.with.Off-Heap.In-Memory.Storage._.Alluxio.pdf)
+  - [Joins in Spark - The art of joining in Spark - Towards Data Science.pdf](https://github.com/TheCodeCache/general-sources/files/7617326/Joins.in.Spark.-.The.art.of.joining.in.Spark.-.Towards.Data.Science.pdf)
+  - [Spark Memory Management _ Distributed Systems Architecture.pdf](https://github.com/TheCodeCache/general-sources/files/7617328/Spark.Memory.Management._.Distributed.Systems.Architecture.pdf)
+  - [Spark Applications Running on Yarn — in a nutshell - Meenakshi Sundaram Sekar - Medium.pdf](https://github.com/TheCodeCache/general-sources/files/7617330/Spark.Applications.Running.on.Yarn.in.a.nutshell.-.Meenakshi.Sundaram.Sekar.-.Medium.pdf)
 
 
 - **Linux**:  
   - https://medium.com/marionete/linux-disk-cache-was-always-there-741bef097e7f
+  - [Linux Bible, 2010 Edition.pdf](https://github.com/TheCodeCache/general-sources/files/7617292/Linux.Bible.2010.Edition.pdf)
+  - [Linux - How Linux Works What Every Superuser Should Know.pdf](https://github.com/TheCodeCache/general-sources/files/7617295/Linux.-.How.Linux.Works.What.Every.Superuser.Should.Know.pdf)
+  - [Linux through Commands.pdf](https://github.com/TheCodeCache/general-sources/files/7617298/Linux.through.Commands.pdf)
 
 - **Data Science**:  
   - https://searchenterpriseai.techtarget.com/post/3-ways-to-evaluate-and-improve-machine-learning-models
@@ -40,4 +50,4 @@ Stuff I want to read
 - **general-topics:**  
   - [SQL vs NoSQL_ A Software Engineer’s perspective _ by Skrew Everything _ From The Scratch _ Medium _ From The Scratch.pdf](https://github.com/TheCodeCache/general-sources/files/7616542/SQL.vs.NoSQL_.A.Software.Engineer.s.perspective._.by.Skrew.Everything._.From.The.Scratch._.Medium._.From.The.Scratch.pdf)
   - [Software Engineering 101_ Stuffing multiple values into a single 64bit value _ by Skrew Everything _ From The Scratch _ Medium.pdf](https://github.com/TheCodeCache/general-sources/files/7616544/Software.Engineering.101_.Stuffing.multiple.values.into.a.single.64bit.value._.by.Skrew.Everything._.From.The.Scratch._.Medium.pdf)
-
+  - [OSI Model Layers — “Explained” - Learn With TheLeanProgrammer - Medium.pdf](https://github.com/TheCodeCache/general-sources/files/7617332/OSI.Model.Layers.Explained.-.Learn.With.TheLeanProgrammer.-.Medium.pdf)
