@@ -9,6 +9,8 @@ Stuff I want to read
 - **SPARK**:  
   - https://spark.apache.org/docs/latest/hardware-provisioning.html
   - [Apache Spark - Deep Dive into Storage Format’s _ spark-notes.pdf](https://github.com/TheCodeCache/general-sources/files/7616451/Apache.Spark.-.Deep.Dive.into.Storage.Format.s._.spark-notes.pdf)
+  - [Spark’s Logical and Physical plans … When, Why, How and Beyond. _ by Laurent Leturgez _ datalex _ Medium.pdf](https://github.com/TheCodeCache/general-sources/files/7616485/Spark.s.Logical.and.Physical.plans.When.Why.How.and.Beyond._.by.Laurent.Leturgez._.datalex._.Medium.pdf)
+
 
 
 - **Linux**:  
