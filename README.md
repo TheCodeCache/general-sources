@@ -14,7 +14,7 @@ Stuff I want to read
   - [spark_deep_concepts.pdf](https://github.com/TheCodeCache/general-sources/files/7616520/spark_deep_concepts.pdf)
   - [spark_joins.pdf](https://github.com/TheCodeCache/general-sources/files/7616522/spark_joins.pdf)
   - [LearningSpark2.0.pdf](https://github.com/TheCodeCache/general-sources/files/7616536/LearningSpark2.0.pdf)
-
+  - [Catalyst and Tungsten_ Apache Spark's Speeding Engine _ LinkedIn.pdf](https://github.com/TheCodeCache/general-sources/files/7616669/Catalyst.and.Tungsten_.Apache.Spark.s.Speeding.Engine._.LinkedIn.pdf)
 
 
 - **Linux**:  
