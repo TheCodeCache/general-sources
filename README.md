@@ -22,6 +22,9 @@ Stuff I want to read
   - [Joins in Spark - The art of joining in Spark - Towards Data Science.pdf](https://github.com/TheCodeCache/general-sources/files/7617326/Joins.in.Spark.-.The.art.of.joining.in.Spark.-.Towards.Data.Science.pdf)
   - [Spark Memory Management _ Distributed Systems Architecture.pdf](https://github.com/TheCodeCache/general-sources/files/7617328/Spark.Memory.Management._.Distributed.Systems.Architecture.pdf)
   - [Spark Applications Running on Yarn — in a nutshell - Meenakshi Sundaram Sekar - Medium.pdf](https://github.com/TheCodeCache/general-sources/files/7617330/Spark.Applications.Running.on.Yarn.in.a.nutshell.-.Meenakshi.Sundaram.Sekar.-.Medium.pdf)
+  - [Apache Spark Optimizations - Compression _ LinkedIn.pdf](https://github.com/TheCodeCache/general-sources/files/7617371/Apache.Spark.Optimizations.-.Compression._.LinkedIn.pdf)
+  - [Spark 3.0 _ Adaptive Query Execution & Dynamic Partition Pruning _ LinkedIn.pdf](https://github.com/TheCodeCache/general-sources/files/7617372/Spark.3.0._.Adaptive.Query.Execution.Dynamic.Partition.Pruning._.LinkedIn.pdf)
+  - [Apache Spark Memory Management_ Deep Dive _ LinkedIn.pdf](https://github.com/TheCodeCache/general-sources/files/7617373/Apache.Spark.Memory.Management_.Deep.Dive._.LinkedIn.pdf)
 
 
 - **Linux**:  
