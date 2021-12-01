@@ -3,6 +3,10 @@ Stuff I want to read
 
 # Sources
 
+- **Security**:
+  - [Securing_Hadoop_Final_V2.pdf](https://github.com/TheCodeCache/general-sources/files/7637014/Securing_Hadoop_Final_V2.pdf)
+
+
 - **System Design**:  
   - https://www.lewis-lin.com/newsletter-archive/announcing-the-system-design-interview-book-lewis-lin-shivam-patel 
     
