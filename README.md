@@ -6,7 +6,6 @@ Stuff, I want to read -
 - **Security**:
   - [Securing_Hadoop_Final_V2.pdf](https://github.com/TheCodeCache/general-sources/files/7637014/Securing_Hadoop_Final_V2.pdf)
   - [Ivan Ristić - OpenSSL Cookbook, SECOND EDITION - 2015.pdf](https://github.com/TheCodeCache/general-sources/files/7687512/Ivan.Ristic.-.OpenSSL.Cookbook.SECOND.EDITION.-.2015.pdf)
-  - [Understanding Cryptography.pdf](https://github.com/TheCodeCache/general-sources/files/7687514/Understanding.Cryptography.pdf)
   - [Bulletproof SSL and TLS_ Under - Ristic, Ivan_5586.pdf](https://github.com/TheCodeCache/general-sources/files/7687517/Bulletproof.SSL.and.TLS_.Under.-.Ristic.Ivan_5586.pdf)
 
 
