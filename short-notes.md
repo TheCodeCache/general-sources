@@ -1,9 +1,9 @@
-# notes - 
+# notes — 
 
 `Idempotence` is the property of certain operations in mathematics and computer science,  
 whereby they can be applied multiple times without changing the result beyond the initial application.  
 
-**bash** -  
+**bash** —  
 a.) The action of caching files when accessing them the first time is called `disk buffering`  
 b.) When a file is read, the data are put into the `page cache`  
 c.) We can use `iostat`, `vmstat`, and `sar` commands to check disk I/O performance.  
@@ -18,10 +18,12 @@ h.) a `cache` is a temporary storage area to store frequently accessed data for 
 i.) file /sbin/{`halt`,`poweroff`,`reboot`,`shutdown`} -  
 we can use these system binaries to halt/shutdown/reboot and poweroff the unix machines.  
 
-**vpc-endpoints** -  
+**vpc-endpoints** —  
 https://docs.aws.amazon.com/vpc/latest/privatelink/vpce-interface.html  
 ![image](https://user-images.githubusercontent.com/26399543/147568840-599a4e76-554b-4407-a2c0-66b196684a40.png)  
 when private DNS (PrivateLink) is turned on:  
 ![image](https://user-images.githubusercontent.com/26399543/147568925-3f709b07-415f-473c-b3d6-735abe8d0ef4.png)  
 
+**S3** —  
+a.) application can achieve at least 3,500 PUT/COPY/POST/DELETE or 5,500 GET/HEAD requests per second per prefix in a S3 bucket  
 
