@@ -64,3 +64,7 @@ Stuff, I want to read -
   - [Software Engineering 101_ Stuffing multiple values into a single 64bit value _ by Skrew Everything _ From The Scratch _ Medium.pdf](https://github.com/TheCodeCache/general-sources/files/7616544/Software.Engineering.101_.Stuffing.multiple.values.into.a.single.64bit.value._.by.Skrew.Everything._.From.The.Scratch._.Medium.pdf)
   - [OSI Model Layers — “Explained” - Learn With TheLeanProgrammer - Medium.pdf](https://github.com/TheCodeCache/general-sources/files/7617332/OSI.Model.Layers.Explained.-.Learn.With.TheLeanProgrammer.-.Medium.pdf)
   - [Design-of-Python](https://docs.python.org/3/contents.html)
+
+- **AWS:**  
+  - [disaster-recovery-whitepaper-on-aws.pdf](https://github.com/TheCodeCache/general-sources/files/7790862/disaster-recovery-whitepaper-on-aws.pdf)
+
