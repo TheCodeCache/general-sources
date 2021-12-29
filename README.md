@@ -67,4 +67,7 @@ Stuff, I want to read -
 
 - **AWS:**  
   - [disaster-recovery-whitepaper-on-aws.pdf](https://github.com/TheCodeCache/general-sources/files/7790862/disaster-recovery-whitepaper-on-aws.pdf)
+  - [Data Quality with Amazon Deequ.pdf](https://github.com/TheCodeCache/general-sources/files/7790956/Data.Quality.with.Amazon.Deequ.pdf)
+
+
 
