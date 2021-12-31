@@ -9,7 +9,7 @@
  1. set `spark.authenticate` to `true` to enable [`Spark`](https://spark.apache.org/docs/latest/security.html#authentication) to authenticate its internal `RPC` connections.  
  2. set `hadoop.rpc.protection` to `privacy` to enable [`Hadoop`](https://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-common/SecureMode.html#Data_Encryption_on_RPC) to authenticate its internal `RPC` connections.  
 
- to enable debugging of the above encrypted RPC connections -  
+ to enable **`debugging`** of the above encrypted RPC connections -  
  set this property in NodeManager, set it in the yarn-env.sh file:  
  `YARN_NODEMANAGER_OPTS="-Djavax.net.debug=all"`
  in `yarn-env.sh`  
