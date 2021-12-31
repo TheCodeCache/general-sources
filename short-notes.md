@@ -14,6 +14,8 @@
  `YARN_NODEMANAGER_OPTS="-Djavax.net.debug=all"`
  in `yarn-env.sh`  
 
+ It requires `keys` for data `at-rest` encryption and `certificates` for data `in-transit` encryption 
+ 
 **bash** —  
  a.) The action of caching files when accessing them the first time is called `disk buffering`  
  b.) When a file is read, the data are put into the `page cache`  
