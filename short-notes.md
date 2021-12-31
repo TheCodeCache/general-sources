@@ -54,3 +54,7 @@
 
  ![image](https://user-images.githubusercontent.com/26399543/147838429-98e09b3f-9047-42dd-8123-7c4d41f47e43.png)
  
+ [[readmore]](https://aws.amazon.com/blogs/database/optimizing-costs-in-amazon-rds/) - if you're using a read replica of type db.r4.4xlarge (16 vCPUs) that is 30% utilized,  
+ you should consider downsizing to db.r4.2xlarge (8 vCPUs).  
+ Now that you have half the number of vCPUs, your CPU utilization is expected to increase to around 60–70%.  
+ This leaves a buffer of around 30% for unexpected spikes and future organic increases in traffic.  
