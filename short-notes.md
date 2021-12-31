@@ -42,4 +42,10 @@
  HDFS-configuration by EMR:  
  ![image](https://user-images.githubusercontent.com/26399543/147821979-e34502b6-dc6d-482a-86e8-63a804af7c19.png)
 
-
+**Lambda**  
+ Lambda functions are protected by AWS Identity and Access Management (IAM) service,  
+ which provides both authentication and authorization.  
+ **`This is the same mechanism that protects most other AWS services`**.  
+ services such as `SNS` and `DynamoDB` are considered secure, even though they don't run inside a VPC  
+ 
+ 
