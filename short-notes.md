@@ -14,8 +14,16 @@
  `YARN_NODEMANAGER_OPTS="-Djavax.net.debug=all"`
  in `yarn-env.sh`  
 
- It requires `keys` for data `at-rest` encryption and `certificates` for data `in-transit` encryption 
+ It requires `keys` for data `at-rest` encryption and `certificates` for data `in-transit` encryption  
  
+ **`Memory Encryption`** — 
+ 
+  We can also encrypt data while it's in `RAM`, and it's possible in couple of AWS EC2 instance types  
+  for-example - a.) M6g instances with Graviton processors b.) M6i instances with Xeon Scalable processors  
+  both these Graviton & Xeon Scalable processors support always-on `memory encryption`  
+  The encryption keys are securely generated within the host system, do not leave the host system,  
+  and are destroyed when the host is rebooted or powered down.  
+
 **bash** —  
  a.) The action of caching files when accessing them the first time is called `disk buffering`  
  b.) When a file is read, the data are put into the `page cache`  
