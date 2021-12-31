@@ -48,4 +48,7 @@
  **`This is the same mechanism that protects most other AWS services`**.  
  services such as `SNS` and `DynamoDB` are considered secure, even though they don't run inside a VPC  
  
+**general-knowledge** —  
+
+ ![image](https://user-images.githubusercontent.com/26399543/147838429-98e09b3f-9047-42dd-8123-7c4d41f47e43.png)
  
