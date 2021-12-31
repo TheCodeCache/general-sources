@@ -16,7 +16,7 @@
 
  It requires `keys` for data `at-rest` encryption and `certificates` for data `in-transit` encryption  
  
- **`Memory Encryption`** — 
+ [**`Memory Encryption`**](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/data-protection.html) — 
  
   We can also encrypt data while it's in `RAM`, and it's possible in couple of AWS EC2 instance types  
   for-example - a.) M6g instances with Graviton processors b.) M6i instances with Xeon Scalable processors  
