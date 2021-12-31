@@ -27,3 +27,7 @@ when private DNS (PrivateLink) is turned on:
 **S3** —  
 a.) application can achieve at least 3,500 PUT/COPY/POST/DELETE or 5,500 GET/HEAD requests per second per prefix in a S3 bucket  
 
+**EMR** —  
+HDFS-configuration by EMR:  
+![image](https://user-images.githubusercontent.com/26399543/147821979-e34502b6-dc6d-482a-86e8-63a804af7c19.png)
+
