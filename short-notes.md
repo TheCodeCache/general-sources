@@ -31,3 +31,8 @@ a.) application can achieve at least 3,500 PUT/COPY/POST/DELETE or 5,500 GET/HEA
 HDFS-configuration by EMR:  
 ![image](https://user-images.githubusercontent.com/26399543/147821979-e34502b6-dc6d-482a-86e8-63a804af7c19.png)
 
+**security** —  
+To secure **`RPC`** connection use:  
+1. set `spark.authenticate` to `true` to enable [`Spark`](https://spark.apache.org/docs/latest/security.html#authentication) to authenticate its internal `RPC` connections.  
+2. set `hadoop.rpc.protection` to `privacy` to enable [`Hadoop`](https://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-common/SecureMode.html#Data_Encryption_on_RPC) to authenticate its internal `RPC` connections.  
+
